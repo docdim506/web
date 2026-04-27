@@ -72,3 +72,6 @@ We welcome contributions to Base! For guidelines on how to contribute please ref
 ---
 
 If you have any questions, please reach out to us in #developer-chat in the [Base Discord](https://base.org/discord).
+## Contributor
+
+Thanks to @docdim506 for improving this doc!
